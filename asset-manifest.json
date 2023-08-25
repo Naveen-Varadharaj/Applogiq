@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Applogiq/static/css/main.85ce11b6.css",
+    "main.js": "/Applogiq/static/js/main.c351fa6a.js",
+    "static/media/Image1.jpg": "/Applogiq/static/media/Image1.0e19a6149a4e2f0688ae.jpg",
+    "static/media/Image-3.jpg": "/Applogiq/static/media/Image-3.1026ca908928796d7095.jpg",
+    "static/media/Image-2.jpg": "/Applogiq/static/media/Image-2.087fd3c342aae29b7471.jpg",
+    "static/media/Image-4.jpg": "/Applogiq/static/media/Image-4.9ad4a37a47a05cc836f6.jpg",
+    "static/media/Avatar group.png": "/Applogiq/static/media/Avatar group.810fb15b46556c45c3e3.png",
+    "static/media/Avatar-6.png": "/Applogiq/static/media/Avatar-6.48772628e0ecedc8581e.png",
+    "static/media/Avatar-4.png": "/Applogiq/static/media/Avatar-4.28eb51baa7b53ef33639.png",
+    "static/media/Avatar-8.png": "/Applogiq/static/media/Avatar-8.ee3018a81908230c0341.png",
+    "static/media/Avatar-3.png": "/Applogiq/static/media/Avatar-3.7e01d26bb960d17607e3.png",
+    "index.html": "/Applogiq/index.html",
+    "main.85ce11b6.css.map": "/Applogiq/static/css/main.85ce11b6.css.map",
+    "main.c351fa6a.js.map": "/Applogiq/static/js/main.c351fa6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ce11b6.css",
+    "static/js/main.c351fa6a.js"
+  ]
+}
